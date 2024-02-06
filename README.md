@@ -1,26 +1,18 @@
-# _Hi there, I'm María Agustina_ 👋
+<h2> Hi there, It's me, María Agustina! </h2>
+<p><em> currently at the neuefische bootcamp <a href="https://neuefische.com </br>
+</em></p>
 
-<div>Important information about me:</div>
-<div>
-<table>  
-<thead> <tr> <td> a software developer </td> </tr> 
-<tr> <td> originally from the picturesque city of Mendoza, Argentina </td> </tr> 
-<tr> <td> now happily residing in vibrant Hamburg, Germany.  </td> </tr>
-</thead></table>
+
+> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript. 
 
 <div align="center">
-  <img width="100%" src="https://github.com/agustina-bonesso/agustina-bonesso/blob/main/IMG_3012.jpeg" alt="cover" />
+  <img width="100%" src="https://github.com/agustina-bonesso/agustina-bonesso/blob/main/IMG_3012.jpeg" alt="cover"/>
 </div>
 
 
 
-
-<br /><br />
-
 ## About me
 
-Balancing the roles of a young mother and a software developer,
-<br /><br />
 I find fulfillment in both nurturing my family and creating innovative solutions in the tech world. 
 <br /><br />
 Beyond coding, my heart finds solace in the tranquility of yoga and meditation.
