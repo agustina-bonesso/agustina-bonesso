@@ -1,4 +1,4 @@
-Hi there! I'm Agustina,
+**Hi there! I'm Agustina**,
 
 a software developer originally from the picturesque city of Mendoza, Argentina, 
 now happily residing in vibrant Hamburg, Germany. Balancing the roles of a young mother and a software developer,
