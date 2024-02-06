@@ -1,15 +1,14 @@
 # _Hi there, I'm María Agustina_ 👋
 
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" alt="cover" />
-</div>
-
+<div>Important information about me:</div>
 <div>
-  
-  a software developer originally from the picturesque city of Mendoza, Argentina, 
-now happily residing in vibrant Hamburg, Germany. 
-I’d love to connect and share stories! Feel free to adjust any details to better reflect your personality and interests!
-</div>
+<table>  
+<thead> <tr> <td> a software developer </td> </tr> 
+<tr> <td> originally from the picturesque city of Mendoza, Argentina </td> </tr> 
+<tr> <td> now happily residing in vibrant Hamburg, Germany.  </td> </tr>
+</thead></table>
+
+
 
 
 <br /><br />
