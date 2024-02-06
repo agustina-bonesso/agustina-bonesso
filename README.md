@@ -1,7 +1,7 @@
 # _Hi there, I'm María Agustina_ 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+  <img width="100%" src="https://github.com/agustina-bonesso/raw/IMG_3012.jpeg" alt="cover" />
 </div>
 
 <div>
