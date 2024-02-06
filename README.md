@@ -9,7 +9,7 @@
 </thead></table>
 
 <div align="center">
-  <img width="100%" src="https://github.com/agustina-bonesso/main/IMG_3012.jpng" alt="cover" />
+  <img width="100%" src="https://github.com/agustina-bonesso/agustina-bonesso/blob/main/IMG_3012.jpeg" alt="cover" />
 </div>
 
 
