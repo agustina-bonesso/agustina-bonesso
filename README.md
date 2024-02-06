@@ -1,14 +1,23 @@
 # _Hi there, I'm María Agustina_ 👋
 
-<div align="center">
-  <img width="100%" src="https://github.com/agustina-bonesso/raw/IMG_3012.jpeg" alt="cover" />
+<div> </div>
+<div>
+<table>  
+
+<thead> <tr> <td> a software developer </td> </tr> 
+<tr> <td> originally fron the picturesque city of Mendoza, Argentina </td> </tr> 
+<tr> <td> now happily residing in vibrant Hamburg, Germany.  </td> </tr> 
+
+
+
+</table>  
 </div>
 
-<div>
-  a software developer originally from the picturesque city of Mendoza, Argentina, 
-now happily residing in vibrant Hamburg, Germany. 
-I’d love to connect and share stories! Feel free to adjust any details to better reflect your personality and interests!
+<div align="center">
+  <img width="100%" src="https://somosamorinfinito.com/wp-content/uploads/2024/01/IMG_0014-3.jpeg" alt="cover" />
 </div>
+
+
 
 <table>
   <thead>
@@ -43,7 +52,7 @@ My passion for healing plants runs deep, and I’m constantly exploring their th
 From herbal teas to aromatic oils, nature’s remedies never cease to amaze me. Life is a journey, and I’m grateful for every experience it brings. 
 If you share a love for technology, mindfulness, and the wonders of nature,
 
-
+**I’d love to connect and share stories! Feel free to adjust any details to better reflect your personality and interests**
 <br /><br />
 
 
