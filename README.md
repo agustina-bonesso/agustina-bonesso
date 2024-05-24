@@ -6,7 +6,7 @@
 > I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript. 
 
 <div align="center">
-  <img width="100%" src="https://github.com/agustina-bonesso/agustina-bonesso/blob/main/IMG_3012.jpeg" alt="cover"/>
+  <img width="50%" src="https://github.com/agustina-bonesso/agustina-bonesso/blob/main/IMG_3012.jpeg" alt="cover"/>
 </div>
 
 
