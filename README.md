@@ -15,12 +15,8 @@ When I'm not coding, you'll likely find me practicing yoga or meditating, embrac
 
 Nature is my sanctuary, and I cherish every moment spent outdoors, whether it's hiking through lush forests or simply basking in the beauty of a sunset. 🌅 Life is a journey, and I'm grateful for every experience it brings. 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="300"/>
-</div>
 
 ---
 
-**"In the midst of coding and life's hustle, find your calm in nature and mindfulness."**
 
 
